@@ -1,19 +1,19 @@
 {
   "name": "DMV Ace",
   "short_name": "DMV Ace",
-  "description": "Practice for your DMV written test — 90+ questions, all 50 states, instant feedback",
+  "description": "Free DMV practice test for all 50 US states",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0d1117",
-  "theme_color": "#238636",
+  "background_color": "#2386C8",
+  "theme_color": "#2386C8",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/icon-192x192-1.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/icon-512x512-1.png",
       "sizes": "512x512",
       "type": "image/png"
     }
